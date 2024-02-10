@@ -1,28 +1,30 @@
-# Handwritten-Digit-Classification-with-PyTorch
+# Handwritten Digit Classification with PyTorch
+
 Welcome to my project on handwritten digit classification using PyTorch! This repository contains my implementation of a Softmax classifier designed to accurately recognize and classify digits from the iconic MNIST dataset. The goal of this project is to demonstrate the application of PyTorch in building a simple yet powerful neural network for image classification.
 
-Project Overview
+## Project Overview
+
 The project follows a straightforward machine learning workflow, starting from data preparation to model training and evaluation. Here's what you can expect to find in this repository:
 
-Data preparation scripts for loading and transforming the MNIST dataset.
-A PyTorch implementation of a Softmax classifier.
-Training and evaluation scripts, including loss and accuracy monitoring.
-A detailed Jupyter notebook that walks through the entire process.
-Visualizations of model parameters and predictions to interpret the model's performance.
-Getting Started
-Prerequisites
+- Data preparation scripts for loading and transforming the MNIST dataset.
+- A PyTorch implementation of a Softmax classifier.
+- Training and evaluation scripts, including loss and accuracy monitoring.
+- A detailed Jupyter notebook that walks through the entire process.
+- Visualizations of model parameters and predictions to interpret the model's performance.
+
+## Getting Started
+
+### Prerequisites
+
 Ensure you have the following installed to get started with the project:
 
-Python 3.8 or newer
-PyTorch 1.8 or newer
-torchvision
-matplotlib for plotting
-numpy for numerical computations
-You can install the necessary libraries using pip:
+- Python 3.8 or newer
+- PyTorch 1.8 or newer
+- torchvision
+- matplotlib for plotting
+- numpy for numerical computations
 
-bash
-Copy code
-pip install torch torchvision matplotlib numpy
+
 Running the Project
 Clone this repository to your local machine.
 Navigate to the project directory.
@@ -36,5 +38,3 @@ The model is trained using the Stochastic Gradient Descent (SGD) optimizer with 
 
 After training, the notebook guides you through analyzing the model's performance, including accuracy metrics and visualizations of the learned weights.
 
-Conclusion and Next Steps
-This project serves as an introductory exploration into the world of neural networks and classification problems using PyTorch. Following this project, I plan to explore more complex architectures and techniques to improve accuracy and efficiency.
