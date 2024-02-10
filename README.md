@@ -1,6 +1,6 @@
 # Handwritten Digit Classification with PyTorch
 
-Welcome to my project on handwritten digit classification using PyTorch! This repository contains my implementation of a Softmax classifier designed to accurately recognize and classify digits from the iconic MNIST dataset. The goal of this project is to demonstrate the application of PyTorch in building a simple yet powerful neural network for image classification.
+Welcome to my project on handwritten digit classification using PyTorch! based on a Coursera project from the computer vision course. This repository contains my implementation of a Softmax classifier designed to accurately recognize and classify digits from the iconic MNIST dataset. The goal of this project is to demonstrate the application of PyTorch in building a simple yet powerful neural network for image classification.
 
 ## Project Overview
 
